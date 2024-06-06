@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 4,
+        "Nombre": "Mateo",
+        "Apellido": "Gigy",
+        "DNI": 46874911,
+        "Puesto": "Gerente",
+        "Salario": 7777777777777
+    },
+    {
+        "ID": 3,
+        "Nombre": "Santino",
+        "Apellido": "Fernandez",
+        "DNI": 67876744,
+        "Puesto": "Asistente",
+        "Salario": 111111111111
+    },
+    {
+        "ID": 2,
+        "Nombre": "Nicolas",
+        "Apellido": "Doyelll",
+        "DNI": 18142581,
+        "Puesto": "Asistente",
+        "Salario": 9999999999999999
+    }
+]

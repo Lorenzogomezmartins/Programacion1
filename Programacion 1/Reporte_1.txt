@@ -1,0 +1,5 @@
+Reporte Número: 1
+Fecha de Solicitud: 2024-06-05 18:11:44
+Cantidad de Empleados que superan el sueldo 2000000000000000000000000 = 0
+Listado de Empleados:
+ID, Nombre, Apellido, DNI, Puesto, Salario
